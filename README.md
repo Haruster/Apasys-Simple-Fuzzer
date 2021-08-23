@@ -1,2 +1,2 @@
-# Kinesys-Simple-Fuzzer
-Kinesys Simple Python Fuzzer
+# Nephael-Simple-Fuzzer
+Nephael Simple Python Fuzzer
